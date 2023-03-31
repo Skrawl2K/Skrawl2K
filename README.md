@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, welcome to my profile 👋😁
 
 <!--
 **Skrawl2K/Skrawl2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Kevin Koslowski, a junior full stack web developer. I'm a tech & science enthusiast, have a love for gaming & creative hobbies - like model building.
+Currently I'm looking for a new job as a full stack developer, my goals as of now are to learn everything regarding DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My technologies are:
+
+- HTML
+- CSS / SCSS
+- JavaScript
+- TypeScript
+- React.js
+- Node.js
+
+My LinkedIn:
+
+https://www.linkedin.com/in/kevin-koslowski-39081a262
+
+
+Have a nice day 👨‍💻
