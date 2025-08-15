@@ -1,24 +1,27 @@
-### Hi there, welcome to my profile 👋😁
+### 👋 Hi there, I’m Kevin Koslowski
 
-I'm Kevin Koslowski, a junior full stack web developer. 
+💻 DevOps Engineer | Full Stack Developer | Tech Enthusiast
 
-I'm a tech & science enthusiast, have a love for gaming & creative hobbies - like model building.
+I’m passionate about technology, automation, and solving complex infrastructure challenges. My journey started with full stack development, but over the past years I’ve specialized heavily in DevOps practices, automation pipelines, and infrastructure monitoring.
+
+🚀 What I’m focusing on right now
+
+Scaling and automating tasks with Ansible & AWX, including dynamic inventory and playbook parameterization
+
+Integrating Grafana + Prometheus with automated remediation workflows
+
+Secure Java (JDK) upgrade rollouts across distributed Windows environments
+
+Refactoring and modernizing legacy systems (JBoss → Tomcat migrations)
+
+🛠️ Technologies & Tools
+
+Frontend: HTML, CSS / SCSS, JavaScript, TypeScript, React.js
+Backend: Node.js, Flask (Python)
+DevOps & Infra: Ansible, AWX, Docker, Docker Swarm, Prometheus, Grafana, WinRM, PowerShell, Bash
+Other: Git, Bitbucket, Jira, Confluence, Canva (presentations)
 
 
-Currently I'm looking for a new job as a full stack developer, my goals as of now are to learn everything regarding DevOps.
+📎 LinkedIn: linkedin.com/in/kevin-koslowski-39081a262
 
-My technologies are:
-
-- HTML
-- CSS / SCSS
-- JavaScript
-- TypeScript
-- React.js
-- Node.js
-
-My LinkedIn:
-
-https://www.linkedin.com/in/kevin-koslowski-39081a262
-
-
-Have a nice day 👨‍💻
+⚡ Always curious, always learning — from front end polish to backend automation.
